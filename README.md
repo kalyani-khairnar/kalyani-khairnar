@@ -9,13 +9,6 @@ Data Analysis Techniques: Data Cleaning, Statistical Analysis, Trend Analysis
 
 Other Tools: Excel, Git
 
-Projects
-
-Zomato Data Analysis
-Tools: Power BI, SQL
-
-Description: Conducted data analysis on Zomato’s dataset to extract insights on customer behavior, restaurant performance, and location-based trends.
-
 Get in Touch
 
 LinkedIn: https://www.linkedin.com/in/kalyani-khairnar-2b474828b
